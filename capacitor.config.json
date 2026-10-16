@@ -1,5 +1,7 @@
-  {
-    "appId": "com.example.koleso",
-    "appName": "Koleso",
-    "webDir": "www"
-  }
+{
+  "appId": "com.local.koleso",
+  "appName": "Колесо и кости",
+  "webDir": "www",
+  "backgroundColor": "#14152B",
+  "android": { "allowMixedContent": false }
+}
